@@ -44,7 +44,7 @@ The QueryCraft pipeline is built of 8 modules/components.
 
     <img src= "image/annotaion_tool.gif">
 
-2. **Data ingestion**: Data ingestion module can be used for ingesting your data to Db2 on IBM Cloud.
+2. **Data ingestion**: Data ingestion module can be used for ingesting your data to Db2 on IBM Cloud. Please make sure to include db_id field (schema name) along with the dataset.
 
     <img src= "image/Db2_ingestion.gif">
 
